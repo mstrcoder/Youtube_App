@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 // import axios from "axios";
 import SearchBar from "./SearchBar";
-import API from "./API";
+// import API from "./API";
 import VideoList from "./VideoList";
 import VideoDetail from "./video/VideoDetails";
 import useVideos from "../hooks/useVideos";
